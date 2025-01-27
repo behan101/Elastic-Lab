@@ -23,3 +23,10 @@ The goal of this lab was to setup a virtual network using Kali Linux, Virtual Bo
 
 ## Examples
 
+<img width="1440" alt="Kali VMSetup" src="https://github.com/user-attachments/assets/2b14314e-9b9e-497b-8b75-103c51d692a1" />
+I first initiated a virtual machine using the Kali Linux virtualization tool. By using a virtual machine, I was able to safely configure a network for a lab environment.
+
+<img width="1440" alt="Elastic - Agent intergration - Agent enrollment" src="https://github.com/user-attachments/assets/8388aa82-43a4-4175-9c1d-3d6584a01adb" />
+Next, I intergrated Elastic (SIEM) to the Kali Linux session in the virtual machine.
+
+
