@@ -6,8 +6,8 @@ The goal of this lab was to set up a virtual network using Kali Linux, VirtualBo
 
 ### Skills Learned
 
-- Kali Linux: Constructed a virtual network using Kali Linux. Various commands were used to identify network connections, such as -ifconfig and -nmap.
-- Virtual Machine: By using a virtual machine, I was able to create a safe environment for testing and configuring networks. It also allowed me to ethically and safely use port scanning tools such as -nmap.
+- Kali Linux: Constructed a virtual network using Kali Linux. Various commands were used to identify network connections, such as `ifconfig` and `nmap`.
+- Virtual Machine: By using a virtual machine, I was able to create a safe environment for testing and configuring networks. It also allowed me to ethically and safely use port scanning tools such as `nmap`.
 - Port Scanning.
 - Search queries by threat identifiers.
 - Alert/Rule Creation.
