@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal of this lab was to setup a virtual network using Kali Linux, Virtual Box, and utilize Elastic (SIEM) to detect and respond to potential threats. After intergrating Elastic, I was able to query search for specific threats and create alerts. I allowed the SIEM to ingest data and visualize it for stakeholders.
+The goal of this lab was to setup a virtual network using Kali Linux, Virtual Box, and utilize Elastic (SIEM) to detect and respond to potential threats. After intergrating Elastic, I was able to query search for specific threats and create alerts. I allowed the SIEM to ingest data and visualize it for stakeholders and team members.
 
 ### Skills Learned
 
